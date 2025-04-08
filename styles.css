@@ -56,9 +56,9 @@ nav a:hover {
 }
 
 .hero h1 {
-  font-size: 3rem;
-  max-width: 400px;
-  font-family: 'MillionDesign', sans-serif;
+  font-size: 2.8rem;
+  letter-spacing: 0.5px;
+  font-weight: 300;
 }
 
 .section {
