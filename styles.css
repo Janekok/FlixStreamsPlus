@@ -56,7 +56,12 @@ nav a:hover {
 }
 
 .hero h1 {
-  font-family: 'MillionDesign';
+  font-size: 3rem;
+  max-width: 600px;
+  font-family: 'MillionDesign', sans-serif;
+  font-weight: 300; /* Added this line */
+}
+
   font-size: 2.8rem;
   letter-spacing: 0.5px;
   font-weight: 300;
